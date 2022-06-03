@@ -1,2 +1,2 @@
-# manaluna-github.io
+# manaluna.github.io
 HTML basic
